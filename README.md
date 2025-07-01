@@ -22,7 +22,6 @@ Este projeto apresenta uma CNN simples treinada no dataset CIFAR-10, com múltip
 
 ## 🗂️ Organização
 - `notebooks/`: notebook principal com modelo e explicabilidade
-- `explainability/`: módulo com implementações dos métodos de explicação
 - `images/`: imagens dos resultados explicativos
 
 ## ▶️ Como executar
