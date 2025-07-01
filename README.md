@@ -9,11 +9,11 @@ Este projeto apresenta uma CNN simples treinada no dataset CIFAR-10, com múltip
 - NoiseTunnel
 
 ## 🖼️ Exemplo de visualização
-![Exemplo de explicação](images/exemplo_1.png)
-![Exemplo de explicação](images/exemplo_2.png)
-![Exemplo de explicação](images/exemplo_3.png)
-![Exemplo de explicação](images/exemplo_4.png)
-![Exemplo de explicação](images/exemplo_5.png)
+![Exemplo de explicação](images/exemplos_1.png)
+![Exemplo de explicação](images/exemplos_2.png)
+![Exemplo de explicação](images/exemplos_3.png)
+![Exemplo de explicação](images/exemplos_4.png)
+![Exemplo de explicação](images/exemplos_5.png)
 
 ## 📚 Tecnologias
 - PyTorch
